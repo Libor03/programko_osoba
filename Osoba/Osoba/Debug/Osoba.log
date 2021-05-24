@@ -1,0 +1,9 @@
+﻿  Osoba.cpp
+e:\student\it3\strohalm\prp\osoba\osoba\osoba\osoba.cpp(89): warning C4018: <: signed/unsigned – neshoda
+  Osoba_new.cpp
+  main.cpp
+e:\student\it3\strohalm\prp\osoba\osoba\osoba\main.cpp(11): warning C4018: <: signed/unsigned – neshoda
+e:\student\it3\strohalm\prp\osoba\osoba\osoba\main.cpp(21): warning C4018: <: signed/unsigned – neshoda
+e:\student\it3\strohalm\prp\osoba\osoba\osoba\main.cpp(43): error C2660: vypisy: Pro funkci nejde používat 2 argumentů.
+  e:\student\it3\strohalm\prp\osoba\osoba\osoba\main.cpp(19): note: viz deklarace: vypisy
+  Generování kódu...
